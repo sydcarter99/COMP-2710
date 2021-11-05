@@ -1,3 +1,4 @@
 # COMP-2710
 Software Construction
-\nProjects from COMP 2710 spring of 2021
+
+Projects from COMP 2710 spring of 2021
